@@ -9,5 +9,7 @@ public class Demo1Test {
 	public void AppleTest() {
 		Reporter.log("Apple",true);
 		Reporter.log("Grapes",true);
+		Reporter.log("kiwi", true);
 	}
 }
+

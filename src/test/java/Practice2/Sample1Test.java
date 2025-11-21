@@ -9,5 +9,6 @@ public class Sample1Test {
 	public void OrangeTest() {
 		Reporter.log("Orange",true);
 		Reporter.log("banana", true);
+		Reporter.log("Chickoo", true);
 	}
 }
